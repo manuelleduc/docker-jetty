@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/appropriate/docker-jetty) 
+
 # About this Repo
 
 [![Build Status](https://travis-ci.org/appropriate/docker-jetty.svg?branch=master)](https://travis-ci.org/appropriate/docker-jetty)
